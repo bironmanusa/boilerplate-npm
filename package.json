@@ -1,6 +1,6 @@
-{
-	"author": "Mateo Mayorga",
+{	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mateo Mayorga",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
